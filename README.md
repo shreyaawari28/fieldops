@@ -6,8 +6,15 @@
 
 ## 📸 Screenshots
 
+### Login (Responsive Deskptop View)
 ![Login (Responsive Deskptop View)](screenshots/login.png)
+
+### Project List (Responsive Deskptop View)
+
 ![Project List (Responsive Deskptop View)](screenshots/projects.png)
+
+### DPR Form (iPad Mini  View)
+
 ![DPR Form (iPad Mini)](screenshots/dpr-form.png)
 
 ---
