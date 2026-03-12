@@ -4,18 +4,28 @@
 
 ---
 
+## 🌐 Live Demo
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://fieldops.vercel.app)
+
+👉 **[View Live Demo](https://fieldops.vercel.app)**
+
+---
+
 ## 📸 Screenshots
 
-### Login (Responsive Deskptop View)
-![Login (Responsive Deskptop View)](screenshots/login.png)
+### Login (Responsive Desktop View)
+![Login](screenshots/login.png)
 
-### Project List (Responsive Deskptop View)
+### Project List (Responsive Desktop View)
+![Project List](screenshots/projects.png)
 
-![Project List (Responsive Deskptop View)](screenshots/projects.png)
+### DPR Form (iPad Mini View)
+![DPR Form](screenshots/dpr-form.png)
 
-### DPR Form (iPad Mini  View)
-
-![DPR Form (iPad Mini)](screenshots/dpr-form.png)
+![Login](screenshots/login.png)
+![Project List](screenshots/projects.png)
+![DPR Form](screenshots/dpr-form.png)
 
 ---
 
@@ -124,8 +134,8 @@ src/
 
 **Shreya Awari**
 
-- 📧 Email: [shreyaawari31@gmail.com](mailto:shreyaawari31@gmail.com)
-- 🌐 GitHub: [github.com/shreyaawari28](https://github.com/shreyaawari28)
+📧 Email: [shreyaawari31@gmail.com](mailto:shreyaawari31@gmail.com)
+🌐 GitHub: [github.com/shreyaawari28](https://github.com/shreyaawari28)
 
 ---
 
