@@ -124,8 +124,8 @@ src/
 
 **Shreya Awari**
 
-📧 Email: [shreyaawari31@gmail.com](mailto:shreyaawari31@gmail.com)
-🌐 GitHub: [github.com/shreyaawari28](https://github.com/shreyaawari28)
+- 📧 Email: [shreyaawari31@gmail.com](mailto:shreyaawari31@gmail.com)
+- 🌐 GitHub: [github.com/shreyaawari28](https://github.com/shreyaawari28)
 
 ---
 
