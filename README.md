@@ -23,9 +23,6 @@
 ### DPR Form (iPad Mini View)
 ![DPR Form](screenshots/dpr-form.png)
 
-![Login](screenshots/login.png)
-![Project List](screenshots/projects.png)
-![DPR Form](screenshots/dpr-form.png)
 
 ---
 
