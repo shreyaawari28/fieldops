@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'DM Sans', system-ui, sans-serif;
+  }
+
+  body {
+    @apply m-0 overflow-x-hidden bg-light-bg text-dark antialiased transition-colors duration-300 dark:bg-dark dark:text-gray-300;
+    background-image:
+      radial-gradient(circle at top left, rgba(245, 168, 0, 0.16), transparent 32%),
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65));
+  }
+
+  html.dark body {
+    background-image:
+      radial-gradient(circle at top left, rgba(245, 168, 0, 0.18), transparent 28%),
+      linear-gradient(to bottom, rgba(26, 26, 26, 0.94), rgba(26, 26, 26, 0.98));
+  }
+
+  * {
+    @apply box-border;
+  }
+
+  #root {
+    @apply min-h-screen;
+  }
+
+  button,
+  input,
+  select,
+  textarea {
+    font: inherit;
+  }
+
+  h1,
+  h2,
+  h3,
+  .display-font {
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 0.02em;
+  }
+}
+
+@layer components {
+  .panel {
+    @apply rounded-3xl border border-accent bg-white shadow-panel backdrop-blur dark:border-[#444444] dark:bg-[#2C2C2C];
+  }
+
+  .industrial-grid {
+    background-image: theme('backgroundImage.grid');
+    background-size: 24px 24px;
+  }
+
+  .field-surface {
+    @apply min-h-[44px] w-full rounded-2xl border border-accent bg-white px-4 py-3 text-dark outline-none transition placeholder:text-dark/35 focus:border-primary focus:ring-2 focus:ring-primary/20 dark:border-[#444444] dark:bg-[#333333] dark:text-gray-100 dark:placeholder:text-gray-400;
+  }
+
+  .touch-target {
+    @apply min-h-[44px];
+  }
+}

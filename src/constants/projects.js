@@ -1,0 +1,42 @@
+export const projects = [
+  {
+    id: 1,
+    name: 'Highway Overpass - NH48',
+    status: 'In Progress',
+    startDate: '2025-01-15',
+    location: 'Mumbai, MH',
+    progress: 65,
+  },
+  {
+    id: 2,
+    name: 'Commercial Tower Block C',
+    status: 'Completed',
+    startDate: '2024-08-01',
+    location: 'Pune, MH',
+    progress: 100,
+  },
+  {
+    id: 3,
+    name: 'River Bridge Restoration',
+    status: 'On Hold',
+    startDate: '2025-03-10',
+    location: 'Nagpur, MH',
+    progress: 30,
+  },
+  {
+    id: 4,
+    name: 'Industrial Warehouse Unit 7',
+    status: 'In Progress',
+    startDate: '2025-02-20',
+    location: 'Thane, MH',
+    progress: 48,
+  },
+  {
+    id: 5,
+    name: 'Airport Taxiway Expansion',
+    status: 'Planning',
+    startDate: '2025-06-01',
+    location: 'Nashik, MH',
+    progress: 10,
+  },
+]
